@@ -1,4 +1,4 @@
-# Week (Season 1) v1.1.1 (MC: 1.21.1)
+# Week (Season 1) v1.1.2 (MC: 1.21.1)
 Mincraft Week is a kitchen sink modpack containing various different mods like AE2, Oh The Biomes We've Gone and MineColonies.
 
 This pack has been made for a private SMP in which we plan to add new mods every week.
