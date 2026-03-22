@@ -1,4 +1,4 @@
-# Week (Season 1) v1.1.0 (MC: 1.21.1)
+# Week (Season 1) v1.1.1 (MC: 1.21.1)
 Mincraft Week is a kitchen sink modpack containing various different mods like AE2, Oh The Biomes We've Gone and MineColonies.
 
 This pack has been made for a private SMP in which we plan to add new mods every week.
@@ -15,6 +15,7 @@ This pack has been made for a private SMP in which we plan to add new mods every
 - Balm ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/balm))
 - BlockUI ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/blockui))
 - Bookshelf ([Modrinth](https://modrinth.com/mod/bookshelf-lib) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/bookshelf)) [21.1.81]
+- Building Wands ([Modrinth](https://modrinth.com/mod/building-wands) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/building-wands)) [3.0.2_beta_neoforge_1.21.1]
 - Chipped ([Modrinth](https://modrinth.com/mod/chipped) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chipped)) [4.0.2]
 - Cloth Config API (Fabric/Forge/NeoForge) ([Modrinth](https://modrinth.com/mod/cloth-config) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cloth-config)) [15.0.140+neoforge]
 - Clumps ([Modrinth](https://modrinth.com/mod/clumps) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/clumps)) [19.0.0.1]
