@@ -83,7 +83,7 @@ This pack has been made for a private SMP in which we plan to add new mods every
 - The One Probe ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/the-one-probe))
 - Tide 2 ([Modrinth](https://modrinth.com/mod/tide) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tide)) [2.0.3]
 - TownTalk ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/towntalk))
-- UnionLib ([Modrinth](https://modrinth.com/mod/unionlib) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/unionlib)) [1.21.1-12.2-NeoForge]
+- UnionLib ([Modrinth](https://modrinth.com/mod/unionlib) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/unionlib)) [1.21.1-12.0.18-NeoForge]
 - Waystones ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/waystones))
 - Yeetus Experimentus ([Modrinth](https://modrinth.com/mod/yeetus-experimentus) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/yeetusexperimentus)) [87.0.0]
 - Zeta ([Modrinth](https://modrinth.com/mod/zeta) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/zeta)) [1.1-39]
