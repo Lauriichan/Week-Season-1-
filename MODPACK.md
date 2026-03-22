@@ -1,0 +1,76 @@
+# Week (Season 1) v1.0.1 (MC: 1.21.1)
+Mincraft Week is a kitchen sink modpack containing various different mods like AE2, Oh The Biomes We've Gone and MineColonies.
+
+This pack has been made for a private SMP in which we plan to add new mods every week.
+## Mods
+- AdvancedAE ([Modrinth](https://modrinth.com/mod/advancedae) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/advancedae)) [1.6.10-1.21.1]
+- AE2: Crafting Tree ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/ae2-crafting-tree))
+- AllTheLeaks (Memory Leak Fix) ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/alltheleaks))
+- Antique Atlas ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/antique-atlas))
+- AppleSkin ([Modrinth](https://modrinth.com/mod/appleskin) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/appleskin)) [3.0.8+mc1.21]
+- Applied Energistics 2 ([Modrinth](https://modrinth.com/mod/ae2) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)) [19.2.17]
+- Applied Energistics 2 Wireless Terminals ([Modrinth](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals)) [19.4.1]
+- Athena ([Modrinth](https://modrinth.com/mod/athena-ctm) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/athena)) [4.0.2]
+- Balm ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/balm))
+- BlockUI ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/blockui))
+- Bookshelf ([Modrinth](https://modrinth.com/mod/bookshelf-lib) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/bookshelf)) [21.1.81]
+- Chipped ([Modrinth](https://modrinth.com/mod/chipped) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chipped)) [4.0.2]
+- Complementary Shaders - Reimagined ([Modrinth](https://modrinth.com/mod/complementary-reimagined) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/complementary-reimagined)) [r5.7.1]
+- Complementary Shaders - Unbound ([Modrinth](https://modrinth.com/mod/complementary-unbound) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/complementary-unbound)) [r5.7.1]
+- Controlling ([Modrinth](https://modrinth.com/mod/controlling) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/controlling)) [19.0.5]
+- CorgiLib ([Modrinth](https://modrinth.com/mod/corgilib) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/corgilib)) [1.21.1-5.0.0.7-NeoForge]
+- Cosmetic Armor Reworked ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked))
+- Curios API (Forge/NeoForge) ([Modrinth](https://modrinth.com/mod/curios) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/curios)) [9.5.1+1.21.1]
+- Domum Ornamentum ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/domum-ornamentum))
+- EMI ([Modrinth](https://modrinth.com/mod/emi) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/emi)) [1.1.22+1.21.1+neoforge]
+- EMI Enchanting ([Modrinth](https://modrinth.com/mod/emi-enchanting) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/emi-enchanting)) [0.1.2+1.21+neoforge]
+- EMI Loot ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/emi-loot))
+- EMI Ores ([Modrinth](https://modrinth.com/mod/emi-ores) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/emi-ores)) [1.2+1.21.1+neoforge]
+- EMI professions (EMIP) ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/emi-professions-emip))
+- EMIffect (Status Effects EMI Plugin) ([Modrinth](https://modrinth.com/mod/emiffect) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/emiffect-status-effects-emi-plugin)) [2.1.5+mc1.21.1]
+- Enchantment Descriptions ([Modrinth](https://modrinth.com/mod/enchantment-descriptions) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)) [21.1.9]
+- Euphoria Patches ([Modrinth](https://modrinth.com/mod/euphoria-patches) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/euphoria-patches)) [1.8.6-r5.7.1-neoforge]
+- ExtendedAE ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/ex-pattern-provider))
+- FerriteCore ((Neo)Forge) ([Modrinth](https://modrinth.com/mod/ferrite-core) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ferritecore)) [7.0.3-neoforge]
+- Fusion (Connected Textures) ([Modrinth](https://modrinth.com/mod/fusion-connected-textures) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures)) [1.2.12-neoforge-mc1.21.1]
+- Fzzy Config ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/fzzy-config))
+- GeckoLib ([Modrinth](https://modrinth.com/mod/geckolib) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/geckolib)) [4.8.4]
+- Glodium ([Modrinth](https://modrinth.com/mod/glodium) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/glodium)) [1.21-2.2-neoforge]
+- GuideME ([Modrinth](https://modrinth.com/mod/guideme) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/guideme)) [21.1.15]
+- Immersive Aircraft [Fabric/Forge] ([Modrinth](https://modrinth.com/mod/immersive-aircraft) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/immersive-aircraft)) [1.4.3+1.21.1]
+- Iris Shaders ([Modrinth](https://modrinth.com/mod/iris) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/irisshaders)) [1.8.12+1.21.1-neoforge]
+- Just Enough Breeding (JEBr) ([Modrinth](https://modrinth.com/mod/justenoughbreeding) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding)) [1.6.2]
+- Kotlin for Forge ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge))
+- Lithium (Fabric/NeoForge) ([Modrinth](https://modrinth.com/mod/lithium) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lithium)) [mc1.21.1-0.15.2-neoforge]
+- MineColonies ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/minecolonies))
+- Modern Industrialization ([Modrinth](https://modrinth.com/mod/modern-industrialization) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/modern-industrialization)) [2.4.1]
+- ModernFix ([Modrinth](https://modrinth.com/mod/modernfix) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/modernfix)) [5.26.1+mc1.21.1]
+- Mouse Tweaks ([Modrinth](https://modrinth.com/mod/mouse-tweaks) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)) [1.21-2.26.1-neoforge]
+- Multi-Piston ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/multi-piston))
+- Nature's Compass ([Modrinth](https://modrinth.com/mod/natures-compass) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/natures-compass)) [1.21.1-3.0.3-neoforge]
+- NetherPortalFix ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/netherportalfix))
+- Oh The Biomes We've Gone ([Modrinth](https://modrinth.com/mod/oh-the-biomes-weve-gone) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-weve-gone)) [2.5.4-NeoForge]
+- Oh The Trees You'll Grow ([Modrinth](https://modrinth.com/mod/oh-the-trees-youll-grow) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/oh-the-trees-youll-grow)) [1.21.1-5.2.1-NeoForge]
+- OpenBlocks Elevator ([Modrinth](https://modrinth.com/mod/elevatormod) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator)) [neoforge-1.21.1-1.11.4]
+- Polymorph (Fabric/Forge/Quilt) ([Modrinth](https://modrinth.com/mod/polymorph) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/polymorph)) [1.1.0+1.21.1]
+- Polymorphic Energistics ([Modrinth](https://modrinth.com/mod/polymorphic-energistics) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/polymorphic-energistics)) [0.4.1]
+- Prickle ([Modrinth](https://modrinth.com/mod/prickle) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/prickle)) [21.1.11]
+- Quark ([Modrinth](https://modrinth.com/mod/quark) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/quark)) [4.1-474]
+- Quark Oddities ([Modrinth](https://modrinth.com/mod/quark-oddities) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/quark-oddities)) [1.21.1]
+- Rechiseled ([Modrinth](https://modrinth.com/mod/rechiseled) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/rechiseled)) [1.2.4-neoforge-mc1.21]
+- Rechiseled: AE2 ([Modrinth](https://modrinth.com/mod/rechiseled-ae2) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/rechiseled-ae2)) [1.0.0]
+- Rechiseled: Chipped ([Modrinth](https://modrinth.com/mod/rechiseled-chipped) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/rechiseled-chipped)) [2.0]
+- Resourceful Lib ([Modrinth](https://modrinth.com/mod/resourceful-lib) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/resourceful-lib)) [3.0.12]
+- Searchables ([Modrinth](https://modrinth.com/mod/searchables) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/searchables)) [1.0.2]
+- Simple Voice Chat ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat))
+- Sodium ([Modrinth](https://modrinth.com/mod/sodium) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sodium)) [mc1.21.1-0.6.13-neoforge]
+- Structurize ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/structurize))
+- SuperMartijn642's Config Lib ([Modrinth](https://modrinth.com/mod/supermartijn642s-config-lib) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib)) [1.1.8-neoforge-mc1.21]
+- SuperMartijn642's Core Lib ([Modrinth](https://modrinth.com/mod/supermartijn642s-core-lib) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib)) [1.1.20-neoforge-mc1.21]
+- TerraBlender (NeoForge) ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/terrablender-neoforge))
+- The One Probe ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/the-one-probe))
+- TownTalk ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/towntalk))
+- UnionLib ([Modrinth](https://modrinth.com/mod/unionlib) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/unionlib)) [1.21.1-12.0.18-NeoForge]
+- Waystones ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/waystones))
+- Yeetus Experimentus ([Modrinth](https://modrinth.com/mod/yeetus-experimentus) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/yeetusexperimentus)) [87.0.0]
+- Zeta ([Modrinth](https://modrinth.com/mod/zeta) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/zeta)) [1.1-39]
