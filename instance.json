@@ -6,7 +6,7 @@
     "description": "Mincraft Week is a kitchen sink modpack containing various different mods like AE2, Oh The Biomes We've Gone and MineColonies.\n\nThis pack has been made for a private SMP in which we plan to add new mods every week.",
     "packId": 0,
     "externalPackId": 0,
-    "version": "1.1.0",
+    "version": "1.1.1",
     "enableCurseForgeIntegration": true,
     "enableEditingMods": true,
     "loaderVersion": {
