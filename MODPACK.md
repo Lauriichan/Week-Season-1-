@@ -40,7 +40,6 @@ This pack has been made for a private SMP in which we plan to add new mods every
 - Extended Industrialization ([Modrinth](https://modrinth.com/mod/extended-industrialization) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/extended-industrialization)) [1.15.33-1.21.1]
 - ExtendedAE ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/ex-pattern-provider))
 - FerriteCore ((Neo)Forge) ([Modrinth](https://modrinth.com/mod/ferrite-core) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ferritecore)) [7.0.3-neoforge]
-- Figura ([Modrinth](https://modrinth.com/mod/figura) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/figura)) [0.1.5+1.21.1]
 - Fish of Thieves ([Modrinth](https://modrinth.com/mod/fish-of-thieves) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fish-of-thieves)) [21.1.1.2-neoforge]
 - Fusion (Connected Textures) ([Modrinth](https://modrinth.com/mod/fusion-connected-textures) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures)) [1.2.12-neoforge-mc1.21.1]
 - Fzzy Config ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/fzzy-config))
