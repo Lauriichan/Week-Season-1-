@@ -50,6 +50,8 @@ This pack has been made for a private SMP in which we plan to add new mods every
 - Iris Shaders ([Modrinth](https://modrinth.com/mod/iris) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/irisshaders)) [1.8.12+1.21.1-neoforge]
 - Just Enough Breeding (JEBr) ([Modrinth](https://modrinth.com/mod/justenoughbreeding) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding)) [1.6.2]
 - Kotlin for Forge ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge))
+- KubeJS ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/kubejs))
+- KubeJS Tweaks ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/kubejs-tweaks))
 - Lithium (Fabric/NeoForge) ([Modrinth](https://modrinth.com/mod/lithium) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lithium)) [mc1.21.1-0.15.3-neoforge]
 - MineColonies ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/minecolonies))
 - Modern Industrialization ([Modrinth](https://modrinth.com/mod/modern-industrialization) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/modern-industrialization)) [2.4.1]
@@ -70,6 +72,7 @@ This pack has been made for a private SMP in which we plan to add new mods every
 - Rechiseled: AE2 ([Modrinth](https://modrinth.com/mod/rechiseled-ae2) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/rechiseled-ae2)) [1.0.0]
 - Rechiseled: Chipped ([Modrinth](https://modrinth.com/mod/rechiseled-chipped) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/rechiseled-chipped)) [2.0]
 - Resourceful Lib ([Modrinth](https://modrinth.com/mod/resourceful-lib) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/resourceful-lib)) [3.0.12]
+- Rhino ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/rhino))
 - Searchables ([Modrinth](https://modrinth.com/mod/searchables) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/searchables)) [1.0.2]
 - Simple Voice Chat ([CurseForge](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat))
 - Skin Layers 3D ([Modrinth](https://modrinth.com/mod/3dskinlayers) / [CurseForge](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d)) [1.10.2]
