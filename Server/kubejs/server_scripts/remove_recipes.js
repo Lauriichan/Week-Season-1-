@@ -23,4 +23,17 @@ ServerEvents.recipes(event => {
         mod: 'antiquelegacy',
         output: '#c:nuggets/steel'
     });
+
+    event.remove({
+        mod: 'wands',
+        output: 'wands:magic_bag_1'
+    });
+    event.remove({
+        mod: 'wands',
+        output: 'wands:magic_bag_2'
+    });
+    event.remove({
+        mod: 'wands',
+        output: 'wands:magic_bag_3'
+    });
 });
